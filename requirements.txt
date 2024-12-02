@@ -5,5 +5,5 @@ google-generativeai
 opencv-python-headless
 numpy
 SpeechRecognition
-PyAudio
-protobuf
+pyttsx3
+protobuf<4  # Streamlit compatibility fix
